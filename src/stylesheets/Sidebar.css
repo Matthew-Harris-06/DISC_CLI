@@ -1,0 +1,36 @@
+#Sidebar {
+    background-color: rgb(3, 34, 34);
+    border-color: black;
+    height: 100%;
+    width: 15%;
+    display: flex;
+    flex-direction: column;
+    justify-content: top;
+    align-items: left;
+    
+    
+}
+.chatroom {
+color: aliceblue;
+display: flex;
+
+padding: 6%;
+border-color: black !important;
+background-color: rgb(4, 58, 58) !important;
+margin: 6%;
+min-width: 2vw;
+
+
+}
+.micicon{
+    width: 2vw;
+    
+    margin-left: 19%;
+    min-width: 2vw;
+
+    
+    
+}
+#Gent:hover {
+    background-color: rgb(1, 106, 106) !important;
+}
